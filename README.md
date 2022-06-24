@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @viniciusdanilavicius
+- meu email de contado é vinicius.danilavicius@escola.pr.gov.br
+- 🌱 Eu estou interessado a aprender a programar novas liguagem 
+- 💞Eu estou aprendendo a programar recentemente aliguagem de JavaScript e Scratch
